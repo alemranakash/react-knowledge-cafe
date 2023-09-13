@@ -6,7 +6,7 @@
         "author": "Emily Johnson",
         "author_img": "https://i.ibb.co/3zK22Vf/boy1.png",
         "posted_date": "Sep 12 (5 Days ago)",
-        "reading_time": "15",
+        "reading_time": 15,
         "hashtags": ["#Fantasy", "#Adventure", "#Nature"]
     },
     {
@@ -14,9 +14,9 @@
         "cover": "https://i.ibb.co/BGqcS3J/2.jpg",
         "title": "Secrets of the Cosmos",
         "author": "Michael Smith",
-        "author_img": "https://i.ibb.co/7tvD3sq/profile.png",
+        "author_img": "https://i.ibb.co/TBCp6bD/boy2.jpg",
         "posted_date": "Aug 30 (18 Days ago)",
-        "reading_time": "30",
+        "reading_time": 30,
         "hashtags": ["#Science", "#Space", "#Exploration"]
     },
     {
@@ -26,7 +26,7 @@
         "author": "Sarah Anderson",
         "author_img": "https://i.ibb.co/bgFD3Dp/girl2.jpg",
         "posted_date": "Jul 25 (54 Days ago)",
-        "reading_time": "20",
+        "reading_time": 20,
         "hashtags": ["#Cooking", "#Recipes", "#Foodies"]
     },
     {
@@ -36,7 +36,7 @@
         "author": "David Williams",
         "author_img": "https://i.ibb.co/fDrTv69/girl1.jpg",
         "posted_date": "Jun 15 (96 Days ago)",
-        "reading_time": "25",
+        "reading_time": 25,
         "hashtags": ["#Mystery", "#Suspense", "#Thriller"]
     },
     {
@@ -46,13 +46,10 @@
         "author": "Jessica Adams",
         "author_img": "https://i.ibb.co/TBCp6bD/boy2.jpg",
         "posted_date": "May 02 (141 Days ago)",
-        "reading_time": "18",
+        "reading_time": 18,
         "hashtags": ["#Health", "#Fitness", "#Wellness"]
     }
 ]
-
-
-
 
 
 
